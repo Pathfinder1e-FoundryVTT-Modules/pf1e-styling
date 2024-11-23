@@ -1,0 +1,32 @@
+{
+  "id": "pf1e-styling",
+  "title": "Pathfinder 1e - Styling",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system",
+        "manifest": "https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/releases/permalink/latest/downloads/system.json"
+      }
+    ]
+  },
+  "description": "Restyle module for the Pathfinder 1e System.",
+  "authors": [
+    {
+      "name": "KitCat",
+      "email": "katsulynx@gmail.com",
+      "discord": "kitcat"
+    }
+  ],
+  "esmodules": [
+    "modules/pf1e-styling-main.mjs"
+  ],
+  "styles": [
+    "styles/pf1e-styling.css"
+  ]
+}
