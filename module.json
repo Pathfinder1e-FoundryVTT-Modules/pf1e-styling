@@ -28,5 +28,11 @@
   ],
   "styles": [
     "styles/pf1e-styling.css"
-  ]
+  ],
+  "readme": "README.md",
+  "license": "LICENSE",
+  "bugs": "https://github.com/Pathfinder1e-FoundryVTT-Modules/pf1e-styling/issues",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#"
 }
