@@ -9,3 +9,11 @@ body.vtt {
   --pf1-v2-secondary-l: 70%;
   --pf1-v2-tertirary-l: 80%;
 }
+
+.application.pf1-v2 {
+  .window-header {
+    h1 {
+      font-family: var(--pf1-v2-font-h1);
+    }
+  }
+}
